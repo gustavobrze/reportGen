@@ -1,5 +1,4 @@
 import pandas as pd
-from IPython.display import display
 from datetime import datetime
 from calendar import monthrange
 from workalendar.america.brazil import BrazilBankCalendar
