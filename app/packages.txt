@@ -1,1 +1,1 @@
-libtk8.6
+apt-get install libtk8.6
