@@ -1,7 +1,6 @@
 import fpdf
 from base import generateReport
 from datetime import datetime as dt
-import os
 import streamlit as st
 import tkinter as tk
 from tkinter import filedialog
